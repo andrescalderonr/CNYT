@@ -12,4 +12,3 @@ Los elementos son:
 -Modulo
 -Conjugado
 -Fase
-

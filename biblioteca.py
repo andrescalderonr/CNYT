@@ -37,3 +37,8 @@ def cartesiano(a):
     x=a[0]*math.cos(a[1])
     y=a[0]*math.sin(a[1])
     return x,y
+
+def fase(a):
+    x=math.atan2(a[1},a[0])
+    return x
+                 
